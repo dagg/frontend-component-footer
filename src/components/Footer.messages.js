@@ -143,7 +143,7 @@ const messages = defineMessages({
   },
   'footer.logo.ariaLabel': {
     id: 'footer.logo.ariaLabel',
-    defaultMessage: 'edX Home',
+    defaultMessage: 'Mathesis Home',
     description: 'aria-label for the footer logo.',
   },
   'footer.ariaLabel': {
