@@ -58,6 +58,7 @@ class SiteFooter extends React.Component {
             />
           )}
         </div>
+        <div>~~~~~~~~~~THIS SHOULD APPEAR ON FOOTER~~~~~~~~~~</div>
       </footer>
     );
   }
