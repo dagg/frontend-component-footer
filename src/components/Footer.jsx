@@ -38,6 +38,7 @@ class SiteFooter extends React.Component {
 
     return (
       <footer role="contentinfo" className="footer d-flex border-top py-3 px-4">
+        <div>~~~~~~~~~~THIS SHOULD APPEAR ON FOOTER~~~~~~~~~~</div>
         <div className="container-fluid d-flex">
           <a
             className="d-block"
@@ -58,7 +59,6 @@ class SiteFooter extends React.Component {
             />
           )}
         </div>
-        <div>~~~~~~~~~~THIS SHOULD APPEAR ON FOOTER~~~~~~~~~~</div>
       </footer>
     );
   }
