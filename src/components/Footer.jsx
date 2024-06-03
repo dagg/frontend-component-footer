@@ -54,6 +54,7 @@ class SiteFooter extends React.Component {
             href={config.LMS_BASE_URL}
             aria-label={intl.formatMessage(messages['footer.logo.ariaLabel'])}
           >
+            <span>TESTING FOOTER</span>
             <img
               style={{ maxHeight: 45 }}
               src={logo || config.LOGO_TRADEMARK_URL}
